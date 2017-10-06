@@ -61,7 +61,7 @@ header .menu {
         color: #fff; }
         header .menu ul li a:hover {
           text-decoration: none;
-          background: #7780da; }
+          background: #A8A8AA; }
 
 .main .titulo-seccion h3, .sidebar .titulo-seccion h3 {
   font-family: "Oswald", sans-serif;
@@ -146,7 +146,7 @@ header .menu {
       display: inline-block;
       padding: 0.62em 0.937em; }
       .main .paginacion ul li a:hover {
-        background: #7780da;
+        background: #A8A8AA;
         text-decoration: none; }
 .main .wp-pagenavi {
   margin-bottom: 1.25em; }
@@ -166,7 +166,7 @@ header .menu {
     padding: 0.62em 0.937em;
     margin-right: 0.62em; }
     .main .wp-pagenavi a:hover {
-      background: #7780da;
+      background: #A8A8AA;
       text-decoration: none; }
 
 .sidebar .widget {
@@ -220,7 +220,7 @@ footer
         footer
         .menu ul li a:hover {
           text-decoration: none;
-          background: #7780da; }
+          background: #A8A8AA; }
 
 .copyright p {
   font-size: 0.87em;
